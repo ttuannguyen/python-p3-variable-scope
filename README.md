@@ -144,7 +144,7 @@ Trying to access that variable elsewhere in our program, _outside of this
 function_, will raise the following error:
 
 ```console
-> im_trapped_in_the_function()
+> print(im_trapped_in_the_function)
 # NameError: name 'im_trapped_in_the_function' is not defined
 ```
 
