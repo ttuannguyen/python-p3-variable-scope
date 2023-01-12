@@ -34,8 +34,8 @@ In this lesson, we'll introduce the concept of scope in Python.
 
 ## Variable Names and Scope
 
-Naming variables is hard, but it is important. We need our code to be as
-descriptive as possible. Any other developer reading over one of our programs
+Naming variables can be challenging, but it is important. We need our code to be
+as descriptive as possible. Any other developer reading over one of our programs
 should be able to understand what our code does. A big part of this is using
 names that are sensible and descriptive.
 
